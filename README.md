@@ -1,3 +1,6 @@
+已使用通义千问
+
+
 # WeChat Bot
 
 一个 基于 `chatgpt` + `wechaty` 的微信机器人
